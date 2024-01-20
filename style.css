@@ -1,0 +1,148 @@
+body {
+  background-color: #f2f2f2;
+}
+.just {
+  display: flex;
+  justify-content: space-between;
+  background-color: darkcyan;
+  margin-top: 2%;
+}
+.john {
+  padding-top: 4vh;
+  padding-left: 2vh;
+}
+.graphics {
+  padding-left: 2vh;
+}
+.circle {
+  border-radius: 48%;
+}
+.div4 {
+  display: flex;
+  margin: 0vh;
+}
+.div5 {
+  background-color: #122021;
+  font-size: medium;
+  color: #f2f2f2;
+  padding: 2vh 3vh;
+  max-height: 100%;
+  max-width: 25vh;
+}
+.underline1 {
+  border-bottom: 3px solid whitesmoke;
+  padding-bottom: 4vh;
+}
+.div6 {
+  padding-top: 2vh;
+}
+.computer {
+  padding-bottom: 2vh;
+  padding-left: 2vh;
+}
+.word {
+  padding-bottom: 2vh;
+}
+.underline2 {
+  border-bottom: 3px solid whitesmoke;
+  padding-bottom: 3vh;
+  padding-top: 3vh;
+}
+.div7 {
+  padding-top: 2vh;
+}
+.certificate1 {
+  padding-bottom: 2vh;
+}
+.certificate2 {
+  padding-bottom: 2vh;
+}
+.underline3 {
+  border-bottom: 3px solid whitesmoke;
+  padding-bottom: 3vh;
+  padding-top: 3vh;
+}
+.div8 {
+  padding-top: 2vh;
+}
+.interest {
+  padding-bottom: 2vh;
+}
+.music {
+  padding-bottom: 2vh;
+}
+.underline4 {
+  padding-bottom: 3vh;
+  padding-top: 3vh;
+}
+.second-main {
+  padding-left: 2vh;
+}
+
+.objective1 {
+  margin-left: 0.9rem;
+  padding-top: 2vh;
+  padding-bottom: 1vh;
+  font-weight: bold;
+  font-size: xx-large;
+  /* border-bottom: 2px solid black; */
+}
+.span1 {
+  font-size: medium;
+}
+.objective2 {
+  padding-bottom: 2vh;
+  margin-left: 0.9rem;
+  font-size: medium;
+  line-height: 29px;
+}
+.education1 {
+  padding-top: 2vh;
+  padding-bottom: 1vh;
+  font-weight: bold;
+  font-size: xx-large;
+  margin-left: 0.9rem;
+}
+.education2 {
+  padding-bottom: 2vh;
+  padding-left: 2vh;
+  font-size: medium;
+}
+.work-experience {
+  padding-top: 2vh;
+  padding-bottom: 1vh;
+  font-weight: bold;
+  font-size: xx-large;
+  margin-left: 0.9rem;
+}
+.work-experience1 {
+  padding-bottom: 1vh;
+  padding-left: 2vh;
+  line-height: 29px;
+}
+
+.activities1 {
+  padding-top: 2vh;
+  margin-left: 0.9rem;
+  padding-bottom: 1vh;
+  font-weight: bold;
+
+  font-size: xx-large;
+}
+.activities2 {
+  padding-bottom: 1vh;
+  padding-left: 2vh;
+}
+.li1 {
+  line-height: 29px;
+}
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+table {
+  width: 100%;
+  margin-top: 1rem;
+}
